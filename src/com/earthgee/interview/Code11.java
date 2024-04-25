@@ -11,9 +11,9 @@ public class Code11 {
             int rightVal=height[right];
             int minVal=Math.min(leftVal, rightVal);
             max=Math.max(max, minVal*(right-left));
-            if(leftVal<=rightVal){
+            if(leftVal<=rightVal) {
                 left++;
-            }else {
+            } else {
                 right--;
             }
         }

@@ -2,6 +2,7 @@ package com.earthgee.interview;
 
 import java.util.HashSet;
 
+//最长不重复子串
 public class Code3 {
 
     public int lengthOfLongestSubstring(String s) {

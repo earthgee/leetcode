@@ -4,6 +4,7 @@ import java.util.LinkedList;
 
 public class Code42 {
 
+    //动态规划
     public int trap(int[] height) {
         int length=height.length;
         if(length==0){
@@ -29,6 +30,7 @@ public class Code42 {
         return sum;
     }
 
+    //单调栈
     public int trap2(int[] height){
         int ans=0;
         LinkedList<Integer> stack=new LinkedList<>();
@@ -53,6 +55,7 @@ public class Code42 {
         return ans;
     }
 
+    //双指针
     public int trap3(int[] height){
         int ans=0;
         int left=0;
@@ -61,14 +64,14 @@ public class Code42 {
         int leftMax=0;
         int rightMax=0;
 
-        while(left<right){
+        while(left<=right){
             leftMax=Math.max(leftMax, height[left]);
             rightMax=Math.max(rightMax, height[right]);
             if(height[left]<height[right]){
-                ans+=leftMax-height[left];
+                ans+=Math.min(leftMax, rightMax)-height[left];
                 ++left;
             }else{
-                ans+=rightMax-height[right];
+                ans+=Math.min(leftMax, rightMax)-height[right];
                 --right;
             }
         }

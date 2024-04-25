@@ -4,105 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="113ecd6f-0241-4415-9254-2de0ca4b26a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code101.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code102.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code104.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code105.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code108.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code114.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code118.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code121.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code124.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code128.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code131.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code139.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code142.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code152.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code153.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code155.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code160.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code189.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code198.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code199.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code200.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code206.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code207.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code208.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code215.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code226.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code230.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code234.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code236.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code238.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code239.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code240.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code279.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code283.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code300.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code322.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code33.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code34.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code347.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code394.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code41.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code42.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code437.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code438.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code45.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code46.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code48.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code49.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code51.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code53.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code54.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code543.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code55.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code56.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code560.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code62.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code64.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code70.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code73.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code739.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code74.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code75.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code76.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code78.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code79.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code94.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code98.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code994.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/LRUCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/UF.java" afterDir="false" />
+    <list default="true" id="113ecd6f-0241-4415-9254-2de0ca4b26a7" name="Changes" comment="leetcode">
+      <change afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code144.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/earthgee/interview/Code11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/earthgee/interview/Code199.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code199.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/earthgee/interview/Code239.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code239.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/earthgee/interview/Code3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/earthgee/interview/Code42.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code42.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/earthgee/interview/Code94.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/earthgee/interview/Code94.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,35 +50,35 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.language.Kotlin&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Code51">
-    <configuration name="Code208" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.earthgee.interview.Code208" />
-      <module name="interview" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.earthgee.interview.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Code22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.earthgee.interview.Code22" />
-      <module name="interview" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.earthgee.interview.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Code31">
     <configuration name="Code25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.earthgee.interview.Code25" />
+      <module name="interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.earthgee.interview.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.earthgee.interview.Code31" />
+      <module name="interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.earthgee.interview.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.earthgee.interview.Code32" />
       <module name="interview" />
       <extension name="coverage">
         <pattern>
@@ -208,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code31" />
+        <item itemvalue="Application.Code32" />
         <item itemvalue="Application.Code51" />
         <item itemvalue="Application.Code437" />
         <item itemvalue="Application.Code25" />
-        <item itemvalue="Application.Code22" />
-        <item itemvalue="Application.Code208" />
       </list>
     </recent_temporary>
   </component>
@@ -225,6 +135,63 @@
       <option name="presentableId" value="Default" />
       <updated>1690208848616</updated>
     </task>
+    <task id="LOCAL-00001" summary="leetcode">
+      <option name="closed" value="true" />
+      <created>1706849824285</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706849824285</updated>
+    </task>
+    <task id="LOCAL-00002" summary="leetcode">
+      <option name="closed" value="true" />
+      <created>1707109776793</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707109776793</updated>
+    </task>
+    <task id="LOCAL-00003" summary="leetcode">
+      <option name="closed" value="true" />
+      <created>1709010364971</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709010364971</updated>
+    </task>
+    <task id="LOCAL-00004" summary="leetcode">
+      <option name="closed" value="true" />
+      <created>1709701835692</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709701835692</updated>
+    </task>
+    <task id="LOCAL-00005" summary="leetcode">
+      <option name="closed" value="true" />
+      <created>1710171373793</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710171373793</updated>
+    </task>
+    <task id="LOCAL-00006" summary="leetcode">
+      <option name="closed" value="true" />
+      <created>1710219869636</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710219869636</updated>
+    </task>
+    <task id="LOCAL-00007" summary="leetcode">
+      <option name="closed" value="true" />
+      <created>1710825270240</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710825270240</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -237,6 +204,12 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="leetcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -1,8 +1,11 @@
 package com.earthgee.interview;
 
 import java.util.Comparator;
+import java.util.Deque;
+import java.util.LinkedList;
 import java.util.PriorityQueue;
 
+//滑动窗口最大值
 public class Code239 {
 
     public int[] maxSlidingWindow(int[] nums, int k) {
@@ -29,6 +32,33 @@ public class Code239 {
             result[i]=priorityQueue.peek()[0];
         }
 
+        return result;
+    }
+
+    public int[] maxSlidingWindow2(int[] nums, int k) {
+        int length=nums.length;
+        Deque<Integer> queue = new LinkedList<>();
+        for(int i=0;i<k;i++){
+            while(!queue.isEmpty() && nums[i]>=nums[queue.peekLast()]) {
+                queue.pollLast();
+            }
+            queue.offerLast(i);
+        }
+
+        int[] result=new int[length-k+1];
+        result[0]=nums[queue.peekFirst()];
+        for(int i=k;i<length;i++){
+            while(!queue.isEmpty() && nums[i]>=nums[queue.peekLast()]) {
+                queue.pollLast();
+            }
+
+            queue.offerLast(i);
+            while(queue.peekFirst() <= i-k) {
+                queue.pollFirst();
+            }
+
+            result[i-k+1]=nums[queue.peekFirst()];
+        }
         return result;
     }
 
