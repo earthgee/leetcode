@@ -20,11 +20,11 @@ public class Code114 {
             }
             TreeNode left=cur.left;
             TreeNode right=cur.right;
-            if(left!=null){
-                stack.push(left);
-            }
             if(right!=null){
                 stack.push(right);
+            }
+            if(left!=null){
+                stack.push(left);
             }
             prev=cur;
         }

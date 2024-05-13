@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
+//二叉树先序遍历
 public class Code144 {
 
     public List<Integer> preorderTraversal(TreeNode root) {
