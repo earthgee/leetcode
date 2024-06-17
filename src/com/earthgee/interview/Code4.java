@@ -18,6 +18,7 @@ public class Code4 {
         }
     }
 
+    //k索引从1开始 如长度是3 k=2
     private int getKthElement(int[] nums1, int[] nums2, int k){
         int length1 = nums1.length;
         int length2 = nums2.length;

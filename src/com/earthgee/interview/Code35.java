@@ -8,7 +8,9 @@ public class Code35 {
         int left=0,right=length-1,ans=length;
         while (left<=right){
             int mid = ((right - left) >> 1) + left;
-            if(target<=nums[right]){
+            if(target == nums[mid]) {
+                return mid;
+            } else if(target < nums[mid]){
                 ans = mid;
                 right = mid - 1;
             } else {

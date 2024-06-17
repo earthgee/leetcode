@@ -6,7 +6,7 @@ import java.util.List;
 public class Code46 {
 
     static List<Integer> once=new ArrayList<>();
-    static List<List<Integer>> result=new ArrayList<>();
+
     static int num=0;
 
     public List<List<Integer>> permute(int[] nums) {
@@ -52,7 +52,38 @@ public class Code46 {
         int[] nums={0,1};
         Code46 code=new Code46();
         code.permute(nums);
-        System.out.println(result);
+//        System.out.println(result);
+    }
+
+    List<List<Integer>> result=new ArrayList<>();
+
+    public List<List<Integer>> permute2(int[] nums) {
+        List<Integer> output = new ArrayList<>();
+        int length=nums.length;
+
+        boolean[] mask = new boolean[length];
+        backtrace(nums, output, mask, length);
+        return result;
+    }
+
+    private void backtrace(int[] nums, List<Integer> output, boolean[] mask, int length) {
+        if(output.size() == length) {
+            result.add(new ArrayList<>(output));
+            return;
+        }
+
+        for(int i=0;i<length;i++) {
+            if(!mask[i]) {
+                output.add(nums[i]);
+                mask[i] = true;
+
+                backtrace(nums, output, mask, length);
+
+                output.remove(Integer.valueOf(nums[i]));
+                mask[i] = false;
+            }
+        }
+
     }
 
 }
